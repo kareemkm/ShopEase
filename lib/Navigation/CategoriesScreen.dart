@@ -26,7 +26,19 @@ class CategoriesScreen extends StatelessWidget{
                       itemCount: categories.length,
                       itemBuilder: (context , index){
                         return ListTile(
-                          title: Text(categories[index].name),
+                          title: Padding(
+                              padding: EdgeInsets.all(10),
+                              child: Container(
+                                decoration: BoxDecoration(
+                                  color: Colors.orange.shade200,
+                                  borderRadius: BorderRadius.circular(30)
+                                ),
+                                child: Padding(
+                                    padding: EdgeInsets.all(10),
+                                  child: Text(categories[index].name),
+                                )
+                              ),
+                          ),
                           onTap: (){
                             Navigator.push(
                                 context,
