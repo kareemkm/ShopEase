@@ -7,6 +7,6 @@
 </p>
 
 <p align = "center">
-  <image src = "images/4.jpg" alt = "screen4" width = "450%"/>
-  <image src = "images/5.jpg" alt = "screen5" width = "450%"/>
+  <image src = "images/4.jpg" alt = "screen4" width = "45%"/>
+  <image src = "images/5.jpg" alt = "screen5" width = "45%"/>
 </p>
