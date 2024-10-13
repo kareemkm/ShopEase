@@ -1,16 +1,12 @@
-# flutter_project
+# ShopEase
 
-A new Flutter project.
+<p align = "center">
+  <image src = "images/1.jpg" alt = "screen1" width = "30%"/>
+  <image src = "images/2.jpg" alt = "screen2" width = "30%"/>
+  <image src = "images/3.jpg" alt = "screen3" width = "30%"/>
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align = "center">
+  <image src = "images/4.jpg" alt = "screen4" width = "450%"/>
+  <image src = "images/5.jpg" alt = "screen5" width = "450%"/>
+</p>
